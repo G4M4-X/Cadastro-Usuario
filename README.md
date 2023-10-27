@@ -10,5 +10,5 @@
     Realizando um novo cadastro, ele cadastra os dados informados no banco e retorna um input 
   informando que os dados foram cadastrados com sucesso. No cadastro de usuário não é permitido 
   campos vazios,se tiver um campo vazio e tentar se cadastrar, ele retorna um input pedindo para 
-  que preencha todos os campos corretamente. 
-![teste](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/f01e34d0-ebef-4b82-a80a-f031013f1d3b)
+  que preencha todos os campos corretamente.
+  ![teste2](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/866375e4-87ca-462b-8d63-44fb5420ab57)
