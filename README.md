@@ -1,6 +1,6 @@
 # Cadastro de usuário
-Java <p>
-MYSQL
+- Java
+- Mysql
 
                 É um sistema de cadastro de usuário. Nele você pode logar e se cadastrar. Na tela de início ele 
         deseja boas vindas.
