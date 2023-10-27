@@ -11,8 +11,8 @@
   informando que os dados foram cadastrados com sucesso. No cadastro de usuário não é permitido 
   campos vazios,se tiver um campo vazio e tentar se cadastrar, ele retorna um input pedindo para 
   que preencha todos os campos corretamente. 
-
-    
+<br>
+<br>    
 ![print inicio](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/dfaf6fc5-d262-4780-af6f-0f94f1d890d4)   
 ![login](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/c5349e42-8f18-4e07-ab85-f2b34d4136a8) 
 ![erro entrar](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/7dac1a23-63e3-4f3e-baf2-63c80dd0c2a2)
