@@ -1,8 +1,14 @@
-# Cadastro de usuário
+# Sistema de Login de Cadastro de usuário
 - Java
 - Mysql
 
-    É um sistema de cadastro de usuário. Nele você pode logar e se cadastrar. Na tela de início ele 
+## Funcionalidades  
+- Cadastro de usuário:  usuários podem se cadastrar fornecendo um nome de usuário, endereço de e-mail e senha válidos. 
+- Login: Os usuários registrados podem fazer login usando seu nome de usuário e senha.
+- Autenticação: O sistema verifica as credenciais do usuário no banco de dados para autenticação.
+- Banco de Dados: Utiliza MySQL para armazenar informações dos usuários.  
+
+   Nele você pode logar e se cadastrar. Na tela de início ele 
   deseja boas vindas.
     Quando tenta logar, ele faz uma busca no banco de dados, se não constar no banco, ele retorna um 
   input informando que senha e usuário estão incorretos, se encontrar, ele mostra um input de boas 
