@@ -15,7 +15,7 @@
 ![novotemp](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/8b30692f-15d9-48eb-9a18-40d4a3e78d2c)
 
 
-- Banco de Dados: Utiliza MySQL para armazenar informações dos usuários.  
+- BANCO DE DADOS: Utiliza MySQL para armazenar informações dos usuários.  
 ![novotemp](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/bd72e046-b4bb-4318-854e-ce06f46dbaa3)
 
 
