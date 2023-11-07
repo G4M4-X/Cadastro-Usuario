@@ -3,18 +3,20 @@
 - Mysql
 
 ## Funcionalidades  
-- Cadastro de usuário:  usuários podem se cadastrar fornecendo um nome de usuário, endereço de e-mail e senha válidos. 
-- Login: Os usuários registrados podem fazer login usando seu nome de usuário e senha.
-- Autenticação: O sistema verifica as credenciais do usuário no banco de dados para autenticação.
-- Banco de Dados: Utiliza MySQL para armazenar informações dos usuários.  
+- LOGIN: Os usuários registrados podem fazer login usando seu nome de usuário e senha.
+![novotemp](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/016de135-edee-42c6-91a9-3369e0bea0d3)
 
-   Nele você pode logar e se cadastrar. Na tela de início ele 
-  deseja boas vindas.
-    Quando tenta logar, ele faz uma busca no banco de dados, se não constar no banco, ele retorna um 
-  input informando que senha e usuário estão incorretos, se encontrar, ele mostra um input de boas 
-  vindas.
-    Realizando um novo cadastro, ele cadastra os dados informados no banco e retorna um input 
-  informando que os dados foram cadastrados com sucesso. No cadastro de usuário não é permitido 
-  campos vazios,se tiver um campo vazio e tentar se cadastrar, ele retorna um input pedindo para 
-  que preencha todos os campos corretamente.
-  ![teste2](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/866375e4-87ca-462b-8d63-44fb5420ab57)
+
+- CADASTRO DE USUÁRIO:  Usuários podem se cadastrar fornecendo um nome de usuário, endereço de e-mail e senha válidos.
+![novotemp](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/35f46176-d891-4d01-89b4-dd2a75c2b3ac)
+
+  
+- Autenticação: O sistema verifica as credenciais do usuário no banco de dados para autenticação.
+![novotemp](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/8b30692f-15d9-48eb-9a18-40d4a3e78d2c)
+
+
+- Banco de Dados: Utiliza MySQL para armazenar informações dos usuários.  
+![novotemp](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/bd72e046-b4bb-4318-854e-ce06f46dbaa3)
+
+
+
