@@ -18,7 +18,6 @@
 ![novotemp](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/bd72e046-b4bb-4318-854e-ce06f46dbaa3)
 
 ## Habilidades
-- Capturando exceções com try/catch 
-
-
+- Capturando exceções com try/catch; 
+- Utilização do Jframe e componentes Swing;
 
