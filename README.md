@@ -21,4 +21,5 @@
 - Captura e tratamento de exceções com try/catch;
 - Utilização do Jframe e componentes Swing;
 - Fazer autenticações; 
+- Utilização da estrutura de acesso DAO;
 
