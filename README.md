@@ -9,7 +9,7 @@
 ![novotemp](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/35f46176-d891-4d01-89b4-dd2a75c2b3ac)
 
   
-- Autenticação: O sistema verifica as credenciais do usuário no banco de dados para autenticação.
+- AUTENTICAÇÃO: O sistema verifica as credenciais do usuário no banco de dados para autenticação.
 ![novotemp](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/8b30692f-15d9-48eb-9a18-40d4a3e78d2c)
 
 
