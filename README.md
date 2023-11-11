@@ -1,6 +1,4 @@
 # Sistema de Login de Cadastro de usuário
-- Java
-- Mysql
 
 ## Funcionalidades  
 - LOGIN: Os usuários registrados podem fazer login usando seu nome de usuário e senha.
