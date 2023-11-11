@@ -21,6 +21,6 @@
 - Capturar e tratar exceções com try/catch;
 - Utilizar Jframe e componentes Swing;
 - Fazer autenticações; 
-- Utilizar da estrutura de acesso DAO;
+- Fazer a estrutura de acesso DAO;
 - Executar instruções SQL com Preparedstatement
 
