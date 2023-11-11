@@ -1,4 +1,4 @@
-## Sistema de login e cadastro de usuário
+## Sistema de Login e Cadastro de Usuário
 
 ### Funcionalidades  
 - **LOGIN:** Os usuários registrados podem fazer login usando seu nome de usuário e senha.
