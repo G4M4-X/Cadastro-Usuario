@@ -5,7 +5,7 @@
 ![novotemp](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/016de135-edee-42c6-91a9-3369e0bea0d3)
 
 
-- **CADASTRO DE USUÁRIO:** Usuários podem se cadastrar fornecendo um nome de usuário, endereço de e-mail e senha válidos.
+- **CADASTRO DE USUÁRIO:** Usuários podem se cadastrar fornecendo seu nome, um nome de usuário, endereço de e-mail e senha válidos.
 ![novotemp](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/35f46176-d891-4d01-89b4-dd2a75c2b3ac)
 
   
