@@ -17,7 +17,8 @@
 ![novotemp](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/e3020b41-c728-487c-a3b5-20741cdd0287)
 ![novotemp](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/bd72e046-b4bb-4318-854e-ce06f46dbaa3)
 
-## Habilidades
+## Aprendizado
 - Captura e tratamento de exceções com try/catch;
 - Utilização do Jframe e componentes Swing;
+- Fazer autenticações; 
 
