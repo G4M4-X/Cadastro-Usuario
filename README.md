@@ -1,6 +1,6 @@
 {c:#B81365}Sistema de Login de Cadastro de usuário
 
-## Funcionalidades  
+### Funcionalidades  
 - **LOGIN:** Os usuários registrados podem fazer login usando seu nome de usuário e senha.
 ![novotemp](https://github.com/G4M4-X/Cadastro-usuario/assets/73545523/016de135-edee-42c6-91a9-3369e0bea0d3)
 
