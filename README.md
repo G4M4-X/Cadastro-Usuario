@@ -22,5 +22,5 @@
 - Utilizar Jframe e componentes Swing;
 - Fazer autenticações; 
 - Fazer a estrutura de acesso DAO;
-- Executar instruções SQL com Preparedstatement
-
+- Executar instruções SQL com Preparedstatement;
+- Conectar a um um SGBD com connection; 
